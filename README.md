@@ -1,6 +1,6 @@
-# Jenkins-Zero-To-Hero
 
-Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
+
+Install Jenkins, configure Docker as agent, set up cicd
 
 ## AWS EC2 Instance
 
